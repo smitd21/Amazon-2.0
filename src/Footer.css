@@ -1,0 +1,24 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  color: white;
+  background-color: #131a22;
+  padding: 3rem;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+}
+.footer_items {
+  font-size: 0.8rem;
+  margin: 0 1rem;
+}
+.footer_items:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.copyright {
+  margin: 0 1rem;
+  font-size: 0.7rem;
+  color: gray;
+}
